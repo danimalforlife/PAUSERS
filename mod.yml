@@ -1,0 +1,26 @@
+title: PAUSERS
+originalAuthor: danimalforlife
+description: PAUSERS
+dependencies: 
+
+
+
+assets:
+- name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
+  multi:
+  - name: remastered/menu/fm/pause.2ld/-1.dds
+  - name: remastered/menu/fm/pause.2ld/FR_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/GR_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/IT_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/SP_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/UK_pause_2ld1.dds
+  - name: remastered/menu/fm/pause.2ld/US_pause_2ld1.dds
+  - name: remastered/menu/fr/pause.2ld/FR_pause_2ld1.dds
+  - name: remastered/menu/gr/pause.2ld/GR_pause_2ld1.dds
+  - name: remastered/menu/it/pause.2ld/IT_pause_2ld1.dds
+  - name: remastered/menu/sp/pause.2ld/SP_pause_2ld1.dds
+  - name: remastered/menu/uk/pause.2ld/UK_pause_2ld1.dds
+  - name: remastered/menu/fr/pause.2ld/UK_pause_2ld1.dds
+  method: copy
+  source:
+  - name: PAUSERS.dds
